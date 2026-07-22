@@ -6,4 +6,5 @@ const tasks = document.getElementById("todo-list")
 addButton.addEventListener('click', function(){
     let task = input.value
     input.value = ""
+    
 })
